@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01b16c34897d51c49b05c523edc6b9cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228321
+  packageName: Simple Scene Loader
+  packageVersion: 1.0
+  assetPath: Assets/HeneGames/Simple Scene Loader/Materials/Spruce_2_LOD2.mat
+  uploadId: 518940
